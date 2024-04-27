@@ -1,5 +1,5 @@
 ### Hello! 👋 I'm Michael!
-👨‍💻 I’m an experienced software engineer with over a decade in the field, specializing in Computer Vision and Deep Learning for the past five years. My expertise extends to optimizing neural networks for edge device inference, ensuring efficient performance in real-world applications.
+👨‍💻 I’m an experienced software engineer with over a decade in the field, specializing in Computer Vision and Deep Learning for the past five years.
 <br />
 👨‍🔬 Beyond the digital realm, I have a keen interest in physics, which continually inspires my approach to problem-solving and innovation.
 <br />
