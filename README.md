@@ -3,7 +3,6 @@
 <br />
 👨‍🔬 Beyond the digital realm, I have a keen interest in physics, which continually inspires my approach to problem-solving and innovation.
 <br />
-🚀 I'm passionate about pushing the boundaries of what's possible and solving challenges with creativity and precision.
 
 [![telegram](https://img.shields.io/static/v1?style=flat-square&message=telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/michaelnnka)
 [![mail](https://img.shields.io/badge/gmail-c14438?style=flat-square&message=gmail&logo=Gmail&logoColor=white&link=mailto:dmatasoff@gmail.com)](mailto:michaelkalininn@gmail.com)
